@@ -2,7 +2,7 @@
 Orange Game is a console-based game developed in C, exclusively for Windows. It provides an interactive text-based gaming experience that is lightweight and easy to run. The game is designed to run without administrative privileges—running it as an administrator will cause it to fail.
 **Table of Contents**
 
-Features
+* Features
 Requirements
 Installation
 Usage
