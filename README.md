@@ -1,5 +1,5 @@
 # Orange  Booster
-Orange Booster is a console optimizer developed in C for the orange game. It provides a smooth and easy-to-run gaming experience. The booster is designed to run without administrative privileges; running it as an administrator will cause it to fail.
+Orange Booster is a console optimizer developed in C for the Rec Room game. It provides a smooth and easy-to-run gaming experience. The booster is designed to run without administrative privileges; running it as an administrator will cause it to fail.
 
 **Features**
 
